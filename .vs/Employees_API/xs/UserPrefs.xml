@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{B7C23B37-49C1-4EE8-BA69-75DB1A733D13}|Default">
-  <MonoDevelop.Ide.ItemProperties.Employees__API FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Employees_API/Models/Employee.cs">
+    <Files>
+      <File FileName="Employees_API/Models/Employee.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Employees_API" expanded="True">
+            <Node name="Employees_API" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Employee.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Employees__API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome Canary.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
