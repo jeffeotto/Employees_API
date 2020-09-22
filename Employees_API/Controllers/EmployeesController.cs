@@ -25,7 +25,11 @@ namespace Employees_API.Controllers
         //public async Task<ActionResult<IEnumerable<Employee>>> GetEmployees()
         public string Get()
         {
-            return "Hello World";
+            var employee1 = new Employee()
+            {
+                Name = "Jeffe"
+            };
+            return "Hello" + " " + employee1.Name; 
             //return await _context.Employees.ToListAsync();
         }
 
