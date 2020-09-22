@@ -22,9 +22,11 @@ namespace Employees_API.Controllers
 
         // GET: api/Employees
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Employee>>> GetEmployees()
+        //public async Task<ActionResult<IEnumerable<Employee>>> GetEmployees()
+        public string Get()
         {
-            return await _context.Employees.ToListAsync();
+            return "Hello World";
+            //return await _context.Employees.ToListAsync();
         }
 
         // GET: api/Employees/5
