@@ -9,6 +9,6 @@ namespace Employees_API.Models
         {
         }
 
-        public DbSet<EmployeeContext> Employees { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
